@@ -1,2 +1,11 @@
 # hotel-users-api
-Api dla użtykowników rejestrujacych się na hotelowym forum
+
+```
+npm install
+```
+a potem
+```
+npm start
+```
+
+odpali się na `localhost:4000`
